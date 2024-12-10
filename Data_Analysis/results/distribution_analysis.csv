@@ -1,0 +1,2 @@
+"energy_consumption_shapiro_p","energy_consumption_normality","response_time_shapiro_p","response_time_normality","gpu_utilization_shapiro_p","gpu_utilization_normality","cpu_utilization_shapiro_p","cpu_utilization_normality","vram_usage_shapiro_p","vram_usage_normality","cpu_power_shapiro_p","cpu_power_normality","gpu_power_shapiro_p","gpu_power_normality"
+0.775328372174288,"Normal",2.1832067977666e-08,"Non-normal",5.68921295985947e-09,"Non-normal",2.89763099174221e-10,"Non-normal",6.06005047316918e-11,"Non-normal",0.248258703870471,"Normal",0.400723335349978,"Normal"
