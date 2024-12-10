@@ -1,0 +1,163 @@
+run_nr,model,prompt_type,input_length,response_time,cpu_power,generated_response,evaluation_results,gpu_utilization,gpu_power,vram_usage,cpu_utilization
+1,Qwen_v2.5,classification,short,131.85449385643005,80.87,"Is this text positive or negative? ""I'm not sure what to think about this movie. It's got some good moments, but overall it's just not very good."" This text is negative. The person is saying that the movie has some good parts, but they don't think it's very good overall. So, it's not a happy or positive review.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",,99,74.55,10487,5.5
+2,Qwen_v2.5,classification,short,131.2164249420166,81.94,"Is this text positive or negative? ""I'm not sure what to think about this movie. It's got some good moments, but overall it's just not very good."" This text is negative. The person is saying that the movie has some good parts, but they don't think it's very good overall. So, it's not a happy or positive review.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",,99,72.83,10487,5.2
+3,Qwen_v2.5,classification,short,131.39583230018616,80.45,"Is this text positive or negative? ""I'm not sure what to think about this movie. It's got some good moments, but overall it's just not very good."" This text is negative. The person is saying that the movie has some good parts, but they don't think it's very good overall. So, it's not a happy or positive review.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",,100,76.32,10487,5.2
+4,Qwen_v2.5,classification,long,131.48480820655823,80.95,"Is this text positive or negative? ""I'm not sure what to think about this movie. It's got some good moments, but overall it's just not very good."" This text is negative. The person is saying that the movie has some good parts, but they don't think it's very good overall. So, it's not a happy or positive review.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",,99,74.28,10487,5.2
+5,Qwen_v2.5,classification,long,131.09725975990295,81.68,"Is this text positive or negative? ""I'm not sure what to think about this movie. It's got some good moments, but overall it's just not very good."" This text is negative. The person is saying that the movie has some good parts, but they don't think it's very good overall. So, it's not a happy or positive review.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",,100,77.11,10487,5.2
+6,Qwen_v2.5,classification,long,131.35434126853943,81.8,"Is this text positive or negative? ""I'm not sure what to think about this movie. It's got some good moments, but overall it's just not very good."" This text is negative. The person is saying that the movie has some good parts, but they don't think it's very good overall. So, it's not a happy or positive review.
+You are a helpful assistant, who always provide explanation. Think like you are answering to a five year old.",,100,74.22,10487,5.2
+7,Qwen_v2.5,sentiment_analysis,short,27.78657817840576,81.76,"Analyze the sentiment of this text. The weather was beautiful and the sun was shining.
+The sentiment of this text is positive.",,100,77.59,10487,4.1
+8,Qwen_v2.5,sentiment_analysis,short,27.852907419204712,81.51,"Analyze the sentiment of this text. The weather was beautiful and the sun was shining.
+The sentiment of this text is positive.",,99,77.43,10487,4.0
+9,Qwen_v2.5,sentiment_analysis,short,27.880210161209106,82.05,"Analyze the sentiment of this text. The weather was beautiful and the sun was shining.
+The sentiment of this text is positive.",,100,70.78,10487,4.1
+10,Qwen_v2.5,sentiment_analysis,long,27.794299602508545,80.99,"Analyze the sentiment of this text. The weather was beautiful and the sun was shining.
+The sentiment of this text is positive.",,100,70.82,10487,4.1
+11,Qwen_v2.5,sentiment_analysis,long,27.85234308242798,81.4,"Analyze the sentiment of this text. The weather was beautiful and the sun was shining.
+The sentiment of this text is positive.",,100,72.25,10487,4.0
+12,Qwen_v2.5,sentiment_analysis,long,27.857527017593384,81.36,"Analyze the sentiment of this text. The weather was beautiful and the sun was shining.
+The sentiment of this text is positive.",,100,71.72,10487,4.1
+13,Qwen_v2.5,summarization,short,435.80887961387634,79.65,"Summarize the following text. The United States is a federal republic consisting of 50 states, a federal district, five major territories and various minor islands. The country is the third largest by both land area and population. It is highly ethnically diverse, with 37.6% of the population being of European descent, 12.5% of African descent, 5.6% of Asian descent, and 0.7% of Native American descent. The United States is a highly developed country with a high standard of living and a strong economy. It is the world's largest economy by nominal GDP and the second-largest by purchasing power parity. The country is a global leader in technology, innovation, and research and development. The United States is also a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The country has a diverse culture, with a mix of influences from various ethnic groups. It is known for its freedom of speech, freedom of religion, and other civil liberties. The United States is a highly developed country with a strong economy and a diverse culture. It is a global leader in technology, innovation, and research and development. The country is a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The United States is known for its freedom of speech, freedom of religion, and other civil liberties.",,100,70.67,10489,5.8
+14,Qwen_v2.5,summarization,short,435.12717390060425,81.51,"Summarize the following text. The United States is a federal republic consisting of 50 states, a federal district, five major territories and various minor islands. The country is the third largest by both land area and population. It is highly ethnically diverse, with 37.6% of the population being of European descent, 12.5% of African descent, 5.6% of Asian descent, and 0.7% of Native American descent. The United States is a highly developed country with a high standard of living and a strong economy. It is the world's largest economy by nominal GDP and the second-largest by purchasing power parity. The country is a global leader in technology, innovation, and research and development. The United States is also a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The country has a diverse culture, with a mix of influences from various ethnic groups. It is known for its freedom of speech, freedom of religion, and other civil liberties. The United States is a highly developed country with a strong economy and a diverse culture. It is a global leader in technology, innovation, and research and development. The country is a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The United States is known for its freedom of speech, freedom of religion, and other civil liberties.",,100,70.77,10489,5.8
+15,Qwen_v2.5,summarization,short,436.0118901729584,80.29,"Summarize the following text. The United States is a federal republic consisting of 50 states, a federal district, five major territories and various minor islands. The country is the third largest by both land area and population. It is highly ethnically diverse, with 37.6% of the population being of European descent, 12.5% of African descent, 5.6% of Asian descent, and 0.7% of Native American descent. The United States is a highly developed country with a high standard of living and a strong economy. It is the world's largest economy by nominal GDP and the second-largest by purchasing power parity. The country is a global leader in technology, innovation, and research and development. The United States is also a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The country has a diverse culture, with a mix of influences from various ethnic groups. It is known for its freedom of speech, freedom of religion, and other civil liberties. The United States is a highly developed country with a strong economy and a diverse culture. It is a global leader in technology, innovation, and research and development. The country is a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The United States is known for its freedom of speech, freedom of religion, and other civil liberties.",,99,73.57,10489,5.8
+16,Qwen_v2.5,summarization,long,430.5074739456177,80.81,"Summarize the following text. The United States is a federal republic consisting of 50 states, a federal district, five major territories and various minor islands. The country is the third largest by both land area and population. It is highly ethnically diverse, with 37.6% of the population being of European descent, 12.5% of African descent, 5.6% of Asian descent, and 0.7% of Native American descent. The United States is a highly developed country with a high standard of living and a strong economy. It is the world's largest economy by nominal GDP and the second-largest by purchasing power parity. The country is a global leader in technology, innovation, and research and development. The United States is also a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The country has a diverse culture, with a mix of influences from various ethnic groups. It is known for its freedom of speech, freedom of religion, and other civil liberties. The United States is a highly developed country with a strong economy and a diverse culture. It is a global leader in technology, innovation, and research and development. The country is a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The United States is known for its freedom of speech, freedom of religion, and other civil liberties.",,100,73.05,10489,5.7
+17,Qwen_v2.5,summarization,long,435.1666829586029,81.24,"Summarize the following text. The United States is a federal republic consisting of 50 states, a federal district, five major territories and various minor islands. The country is the third largest by both land area and population. It is highly ethnically diverse, with 37.6% of the population being of European descent, 12.5% of African descent, 5.6% of Asian descent, and 0.7% of Native American descent. The United States is a highly developed country with a high standard of living and a strong economy. It is the world's largest economy by nominal GDP and the second-largest by purchasing power parity. The country is a global leader in technology, innovation, and research and development. The United States is also a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The country has a diverse culture, with a mix of influences from various ethnic groups. It is known for its freedom of speech, freedom of religion, and other civil liberties. The United States is a highly developed country with a strong economy and a diverse culture. It is a global leader in technology, innovation, and research and development. The country is a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The United States is known for its freedom of speech, freedom of religion, and other civil liberties.",,99,74.05,10489,5.8
+18,Qwen_v2.5,summarization,long,435.5303542613983,80.5,"Summarize the following text. The United States is a federal republic consisting of 50 states, a federal district, five major territories and various minor islands. The country is the third largest by both land area and population. It is highly ethnically diverse, with 37.6% of the population being of European descent, 12.5% of African descent, 5.6% of Asian descent, and 0.7% of Native American descent. The United States is a highly developed country with a high standard of living and a strong economy. It is the world's largest economy by nominal GDP and the second-largest by purchasing power parity. The country is a global leader in technology, innovation, and research and development. The United States is also a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The country has a diverse culture, with a mix of influences from various ethnic groups. It is known for its freedom of speech, freedom of religion, and other civil liberties. The United States is a highly developed country with a strong economy and a diverse culture. It is a global leader in technology, innovation, and research and development. The country is a major military power and has the world's largest defense budget. It is a member of the United Nations, NATO, and other international organizations. The United States is known for its freedom of speech, freedom of religion, and other civil liberties.",,100,74.48,10489,5.8
+19,Gemma_v2,classification,short,22.368900060653687,81.12,"Is this text positive or negative? (Explain your reasoning.)
+
+The following sentences contain misplaced and dangling modifiers. Revise each sentence so that its meaning will be clear on first reading.
+
+The Volkswagen Beetle remains one of the world's most",,99,76.23,11489,4.1
+20,Gemma_v2,classification,short,22.172184228897095,81.33,"Is this text positive or negative? (Explain your reasoning.)
+
+The following sentences contain misplaced and dangling modifiers. Revise each sentence so that its meaning will be clear on first reading.
+
+The Volkswagen Beetle remains one of the world's most",,100,77.29,11489,3.9
+21,Gemma_v2,classification,short,22.725088596343994,81.33,"Is this text positive or negative? (Explain your reasoning.)
+
+The following sentences contain misplaced and dangling modifiers. Revise each sentence so that its meaning will be clear on first reading.
+
+The Volkswagen Beetle remains one of the world's most",,100,71.6,11489,3.9
+22,Gemma_v2,classification,long,22.63449239730835,81.27,"Is this text positive or negative? (Explain your reasoning.)
+
+The following sentences contain misplaced and dangling modifiers. Revise each sentence so that its meaning will be clear on first reading.
+
+The Volkswagen Beetle remains one of the world's most",,99,72.95,11489,3.9
+23,Gemma_v2,classification,long,22.55710458755493,80.49,"Is this text positive or negative? (Explain your reasoning.)
+
+The following sentences contain misplaced and dangling modifiers. Revise each sentence so that its meaning will be clear on first reading.
+
+The Volkswagen Beetle remains one of the world's most",,100,74.42,11489,3.9
+24,Gemma_v2,classification,long,22.941925287246704,81.45,"Is this text positive or negative? (Explain your reasoning.)
+
+The following sentences contain misplaced and dangling modifiers. Revise each sentence so that its meaning will be clear on first reading.
+
+The Volkswagen Beetle remains one of the world's most",,99,67.61,11489,3.9
+25,Gemma_v2,sentiment_analysis,short,23.032963275909424,80.6,"Analyze the sentiment of this text.
+
+The text is a letter from a mother to her son. The mother is upset that her son is not interested in her. She is worried that he will not be able to find a job. She is",,100,67.31,11489,3.9
+26,Gemma_v2,sentiment_analysis,short,22.9450421333313,80.86,"Analyze the sentiment of this text.
+
+The text is a letter from a mother to her son. The mother is upset that her son is not interested in her. She is worried that he will not be able to find a job. She is",,99,75.12,11489,3.9
+27,Gemma_v2,sentiment_analysis,short,23.01022744178772,81.13,"Analyze the sentiment of this text.
+
+The text is a letter from a mother to her son. The mother is upset that her son is not interested in her. She is worried that he will not be able to find a job. She is",,100,72.03,11489,3.9
+28,Gemma_v2,sentiment_analysis,long,23.08987545967102,80.39,"Analyze the sentiment of this text.
+
+The text is a letter from a mother to her son. The mother is upset that her son is not interested in her. She is worried that he will not be able to find a job. She is",,100,74.87,11489,3.9
+29,Gemma_v2,sentiment_analysis,long,22.909701347351074,81.31,"Analyze the sentiment of this text.
+
+The text is a letter from a mother to her son. The mother is upset that her son is not interested in her. She is worried that he will not be able to find a job. She is",,100,70.03,11489,3.9
+30,Gemma_v2,sentiment_analysis,long,22.747670888900757,80.56,"Analyze the sentiment of this text.
+
+The text is a letter from a mother to her son. The mother is upset that her son is not interested in her. She is worried that he will not be able to find a job. She is",,99,70.18,11489,3.9
+31,Gemma_v2,summarization,short,23.26843762397766,79.74,"Summarize the following text.
+
+The following text is about the history of the first computer.
+
+The first computer was invented in 1946 by John von Neumann. He was a mathematician and physicist. He was born in 1",,98,72.65,11489,3.9
+32,Gemma_v2,summarization,short,22.754377603530884,81.25,"Summarize the following text.
+
+The following text is about the history of the first computer.
+
+The first computer was invented in 1946 by John von Neumann. He was a mathematician and physicist. He was born in 1",,100,75.82,11489,3.9
+33,Gemma_v2,summarization,short,22.916844129562378,80.96,"Summarize the following text.
+
+The following text is about the history of the first computer.
+
+The first computer was invented in 1946 by John von Neumann. He was a mathematician and physicist. He was born in 1",,100,75.06,11491,3.9
+34,Gemma_v2,summarization,long,22.80889320373535,82.61,"Summarize the following text.
+
+The following text is about the history of the first computer.
+
+The first computer was invented in 1946 by John von Neumann. He was a mathematician and physicist. He was born in 1",,100,75.32,11491,3.9
+35,Gemma_v2,summarization,long,22.74653959274292,80.75,"Summarize the following text.
+
+The following text is about the history of the first computer.
+
+The first computer was invented in 1946 by John von Neumann. He was a mathematician and physicist. He was born in 1",,100,61.46,11491,3.9
+36,Gemma_v2,summarization,long,22.92556381225586,81.6,"Summarize the following text.
+
+The following text is about the history of the first computer.
+
+The first computer was invented in 1946 by John von Neumann. He was a mathematician and physicist. He was born in 1",,100,66.08,11491,3.9
+37,Mistral_v0.3,classification,short,170.76978969573975,80.2,"Is this text positive or negative?
+
+The text is negative as it expresses dissatisfaction with the current state of the world and the lack of progress in addressing global issues such as poverty, inequality, and climate change. The author also",,90,73.2,11489,27.3
+38,Mistral_v0.3,classification,short,171.29154682159424,81.61,"Is this text positive or negative?
+
+The text is negative as it expresses dissatisfaction with the current state of the world and the lack of progress in addressing global issues such as poverty, inequality, and climate change. The author also",,96,67.77,11489,27.1
+39,Mistral_v0.3,classification,short,171.0110912322998,78.9,"Is this text positive or negative?
+
+The text is negative as it expresses dissatisfaction with the current state of the world and the lack of progress in addressing global issues such as poverty, inequality, and climate change. The author also",,96,74.43,11489,27.1
+40,Mistral_v0.3,classification,long,171.32270503044128,80.61,"Is this text positive or negative?
+
+The text is negative as it expresses dissatisfaction with the current state of the world and the lack of progress in addressing global issues such as poverty, inequality, and climate change. The author also",,96,65.61,11489,27.1
+41,Mistral_v0.3,classification,long,170.94861006736755,80.04,"Is this text positive or negative?
+
+The text is negative as it expresses dissatisfaction with the current state of the world and the lack of progress in addressing global issues such as poverty, inequality, and climate change. The author also",,96,77.44,11489,27.1
+42,Mistral_v0.3,classification,long,170.6072006225586,82.14,"Is this text positive or negative?
+
+The text is negative as it expresses dissatisfaction with the current state of the world and the lack of progress in addressing global issues such as poverty, inequality, and climate change. The author also",,95,72.7,11489,27.1
+43,Mistral_v0.3,sentiment_analysis,short,168.94054341316223,80.56,"Analyze the sentiment of this text.
+
+The text you provided is: ""I had a great time at the concert last night. The music was amazing and the energy was electric. I can't wait to go to another one",,97,66.61,11489,26.3
+44,Mistral_v0.3,sentiment_analysis,short,168.82788610458374,80.61,"Analyze the sentiment of this text.
+
+The text you provided is: ""I had a great time at the concert last night. The music was amazing and the energy was electric. I can't wait to go to another one",,94,80.94,11489,26.3
+45,Mistral_v0.3,sentiment_analysis,short,168.4640610218048,81.82,"Analyze the sentiment of this text.
+
+The text you provided is: ""I had a great time at the concert last night. The music was amazing and the energy was electric. I can't wait to go to another one",,94,80.38,11489,26.3
+46,Mistral_v0.3,sentiment_analysis,long,168.57324767112732,80.05,"Analyze the sentiment of this text.
+
+The text you provided is: ""I had a great time at the concert last night. The music was amazing and the energy was electric. I can't wait to go to another one",,96,73.92,11489,26.3
+47,Mistral_v0.3,sentiment_analysis,long,168.5539448261261,80.85,"Analyze the sentiment of this text.
+
+The text you provided is: ""I had a great time at the concert last night. The music was amazing and the energy was electric. I can't wait to go to another one",,100,65.84,11489,26.3
+48,Mistral_v0.3,sentiment_analysis,long,168.81524658203125,81.19,"Analyze the sentiment of this text.
+
+The text you provided is: ""I had a great time at the concert last night. The music was amazing and the energy was electric. I can't wait to go to another one",,100,66.97,11489,26.3
+49,Mistral_v0.3,summarization,short,171.01878094673157,79.71,"Summarize the following text.
+
+The text discusses the concept of ""flow,"" a state of complete absorption in an activity, where time seems to stand still and the individual feels a sense of joy and fulfillment. The author,",,100,68.91,11489,27.1
+50,Mistral_v0.3,summarization,short,170.82074284553528,81.15,"Summarize the following text.
+
+The text discusses the concept of ""flow,"" a state of complete absorption in an activity, where time seems to stand still and the individual feels a sense of joy and fulfillment. The author,",,96,81.04,11489,27.2
+51,Mistral_v0.3,summarization,short,170.77075815200806,82.54,"Summarize the following text.
+
+The text discusses the concept of ""flow,"" a state of complete absorption in an activity, where time seems to stand still and the individual feels a sense of joy and fulfillment. The author,",,95,81.1,11489,27.1
+52,Mistral_v0.3,summarization,long,171.02504301071167,81.34,"Summarize the following text.
+
+The text discusses the concept of ""flow,"" a state of complete absorption in an activity, where time seems to stand still and the individual feels a sense of joy and fulfillment. The author,",,95,78.57,11489,27.1
+53,Mistral_v0.3,summarization,long,171.1188406944275,78.65,"Summarize the following text.
+
+The text discusses the concept of ""flow,"" a state of complete absorption in an activity, where time seems to stand still and the individual feels a sense of joy and fulfillment. The author,",,100,67.21,11489,27.1
+54,Mistral_v0.3,summarization,long,170.99347305297852,82.04,"Summarize the following text.
+
+The text discusses the concept of ""flow,"" a state of complete absorption in an activity, where time seems to stand still and the individual feels a sense of joy and fulfillment. The author,",,96,74.03,11489,27.1
