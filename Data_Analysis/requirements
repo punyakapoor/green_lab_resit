@@ -1,0 +1,11 @@
+jsonlite
+dplyr
+ggplot2
+plotly
+nortest
+pwr
+reshape2
+stringr
+tidyverse  
+gridExtra  
+ggpubr     
